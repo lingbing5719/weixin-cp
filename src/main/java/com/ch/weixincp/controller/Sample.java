@@ -9,8 +9,7 @@ import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.NodeList;
 import org.xml.sax.InputSource;
-import javax.xml.parsers.DocumentBuilderFactory;
-import com.qq.weixin.mp.aes.WXBizMsgCrypt;
+import com.ch.weixincp.ase.WXBizMsgCrypt;
 
 public class Sample {
 

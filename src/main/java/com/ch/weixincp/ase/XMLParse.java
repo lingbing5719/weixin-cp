@@ -6,7 +6,7 @@
 
 // ------------------------------------------------------------------------
 
-package com.qq.weixin.mp.aes;
+package com.ch.weixincp.ase;
 
 import java.io.StringReader;
 
